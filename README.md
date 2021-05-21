@@ -2,7 +2,7 @@
 ![](https://i.imgur.com/74pYcW5.png)
 ### Output: Syntax Error
 
-"BrAz doesn't exits"
+"ʇsıxǝ ʇ,usǝop z∀ɹᙠ"
 
 
 
