@@ -1,5 +1,5 @@
 
-![](https://i.imgur.com/Ztlg6g7.png)
+![](https://i.imgur.com/74pYcW5.png)
 ### Output: Syntax Error
 
 "BrAz doesn't exits"
