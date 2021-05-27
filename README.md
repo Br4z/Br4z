@@ -1,5 +1,5 @@
 
-![](https://i.imgur.com/74pYcW5.png)
+![](https://i.imgur.com/TvXBEZe.png)
 ### Output: Syntax Error
 
 "ʇsıxǝ ʇ,usǝop z∀ɹᙠ"
