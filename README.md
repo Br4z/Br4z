@@ -1,8 +1,7 @@
 
 ![](https://i.imgur.com/TvXBEZe.png)
-### Output: Syntax Error
+### Output: BrAz isn't defined
 
-"ʇsıxǝ ʇ,usǝop z∀ɹᙠ"
 
 
 
