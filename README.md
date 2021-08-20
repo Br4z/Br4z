@@ -21,7 +21,7 @@
   <a href="https://bit.ly/2KQXYno" target="_BLANK"><img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"   alt="Twitch" height="30"></a>
   <a href="https://spoti.fi/3eftMye" target="_BLANK"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Twitch" height="30"></a>
 
-
+![Snake animation](https://github.com/Br4z/Br4z/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
