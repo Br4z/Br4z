@@ -13,7 +13,7 @@
  <img align="right" alt="Monita china" src="https://i.imgur.com/YmUv0KN.gif" height="128">
 
 
-<div style="display: inline-block;"><br>
+<div>
   <a href="https://bit.ly/38MgpRX" target="_BLANK" ><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" height="30"></a>
   <a href="https://bit.ly/37XEC7Y" target="_BLANK"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" height="30"></a>
   <a href="https://bit.ly/36J1LeB" target="_BLANK"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="30"></a>
@@ -21,11 +21,10 @@
   <a href="https://bit.ly/2KQXYno" target="_BLANK"><img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"   alt="Twitch" height="30"></a>
   <a href="https://spoti.fi/3eftMye" target="_BLANK"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Twitch" height="30"></a>
 
-![Snake animation](https://github.com/Br4z/Br4z/blob/output/github-contribution-grid-snake.svg)
+
 
 </div>
 
-
-
 ---
 
+![Snake animation](https://github.com/Br4z/Br4z/blob/output/github-contribution-grid-snake.svg)
