@@ -1,6 +1,6 @@
 
 ![](https://i.imgur.com/TvXBEZe.png)
-### Output: BrAz.exe has stop working.
+### Output: BrAz.exe has stop working. <img align="right" alt="Views" src="https://komarev.com/ghpvc/?username=BrAz&style=flat-plastic&color=blueviolet">
 ---
  
  <div>
