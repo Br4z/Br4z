@@ -1,6 +1,6 @@
 
 ![](https://i.imgur.com/TvXBEZe.png)
-### Output: BrAz.exe has stop working. <img align="right" alt="Views" src="https://komarev.com/ghpvc/?username=BrAz&style=flat-plastic&color=blueviolet">
+# <img align="right" alt="Views" src="https://komarev.com/ghpvc/?username=BrAz&style=flat-plastic&color=blueviolet">
 ---
  
  <div>
@@ -9,13 +9,14 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-##
+
  
  <img align="right" alt="Monita china" src="https://i.imgur.com/YmUv0KN.gif" height="128">
 
