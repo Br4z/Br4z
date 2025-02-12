@@ -11,7 +11,7 @@
 
 	![My Skills](https://skillicons.dev/icons?i=git,bash,js,py,html,css)
 
-<img align = "right" alt = "Monita china" src = "https://i.imgur.com/YmUv0KN.gif" height = "128">
+<img align = "right" alt = "$uicideboy$" src = "https://i.imgur.com/GHNcATr.jpg" height = "128">
 
 - Social media.
 
