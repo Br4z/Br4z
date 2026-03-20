@@ -38,4 +38,4 @@
 
 |                                             Anime                                             |                                             Music                                             |
 |:---------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|
-| ![Anime activity](https://raw.githubusercontent.com/Br4z/Br4z/refs/heads/metrics/AniList.svg) | ![Music activity](https://raw.githubusercontent.com/Br4z/Br4z/refs/heads/metrics/Spotify.svg) |
+| ![Anime activity](https://raw.githubusercontent.com/Br4z/Br4z/refs/heads/metrics/AniList.svg) | ![Music activity](https://raw.githubusercontent.com/Br4z/Br4z/refs/heads/metrics/LastFM.svg) |
