@@ -36,6 +36,6 @@
 ## Entertainment activity
 
 
-|                                             Anime                                             |                                             Music                                             |
-|:---------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|
-| ![Anime activity](https://raw.githubusercontent.com/Br4z/Br4z/refs/heads/metrics/AniList.svg) | ![Music activity](https://raw.githubusercontent.com/Br4z/Br4z/refs/heads/metrics/LastFM.svg) |
+|                                             Anime                                             |                                            Music                                             |                                            Steam                                            |
+|:---------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|
+| ![Anime activity](https://raw.githubusercontent.com/Br4z/Br4z/refs/heads/metrics/AniList.svg) | ![Music activity](https://raw.githubusercontent.com/Br4z/Br4z/refs/heads/metrics/LastFM.svg) | ![Steam activity](https://raw.githubusercontent.com/Br4z/Br4z/refs/heads/metrics/Steam.svg) |
