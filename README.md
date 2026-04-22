@@ -7,7 +7,7 @@
 	</picture>
 </div>
 
-<img align="right" alt="views" src="https://komarev.com/ghpvc/?username=BrAz&style=flat-plastic&color=blueviolet">
+<img align="right" alt="views" src="https://komarev.com/ghpvc/?username=braz9LKDI&style=flat-plastic&color=lightgrey">
 
 ## Technologies
 
@@ -24,18 +24,18 @@
 ## Contribution
 
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Br4z/Br4z/snake/dark.svg">
-	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Br4z/Br4z/snake/light.svg">
-	<img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/Br4z/Br4z/snake/light.svg">
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/braz9LKDI/braz9LKDI/snake/dark.svg">
+	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/braz9LKDI/braz9LKDI/snake/light.svg">
+	<img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/braz9LKDI/braz9LKDI/snake/light.svg">
 </picture>
 
 ## Coding activity
 
-![Wakatime metrics](https://raw.githubusercontent.com/Br4z/Br4z/refs/heads/metrics/WakaTime.svg)
+![Wakatime metrics](https://raw.githubusercontent.com/braz9LKDI/braz9LKDI/refs/heads/metrics/WakaTime.svg)
 
 ## Entertainment activity
 
 
 |                                             Anime                                             |                                            Music                                             |                                            Steam                                            |
 |:---------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|
-| ![Anime activity](https://raw.githubusercontent.com/Br4z/Br4z/refs/heads/metrics/AniList.svg) | ![Music activity](https://raw.githubusercontent.com/Br4z/Br4z/refs/heads/metrics/LastFM.svg) | ![Steam activity](https://raw.githubusercontent.com/Br4z/Br4z/refs/heads/metrics/Steam.svg) |
+| ![Anime activity](https://raw.githubusercontent.com/braz9LKDI/braz9LKDI/refs/heads/metrics/AniList.svg) | ![Music activity](https://raw.githubusercontent.com/braz9LKDI/braz9LKDI/refs/heads/metrics/LastFM.svg) | ![Steam activity](https://raw.githubusercontent.com/braz9LKDI/braz9LKDI/refs/heads/metrics/Steam.svg) |
